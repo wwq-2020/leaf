@@ -1,0 +1,8 @@
+dbhost="127.0.0.1"
+dbport=3306
+dbusername="root"
+dbpassword="password"
+dbcharset="utf8"
+mode="snowflake"
+dbdatabase="test"
+
